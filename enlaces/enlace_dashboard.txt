@@ -1,0 +1,5 @@
+Dashboard publicado en Databricks:
+https://dbc-4a440d0a-cfc2.cloud.databricks.com/dashboardsv3/01f1818acd0d1bce9be89483f505c3fb/published?o=7474652446512008
+
+Nota de acceso:
+Databricks Free Edition puede solicitar autenticación para visualizar dashboards publicados.
