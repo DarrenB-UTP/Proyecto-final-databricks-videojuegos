@@ -3,3 +3,9 @@ https://dbc-4a440d0a-cfc2.cloud.databricks.com/dashboardsv3/01f1818acd0d1bce9be8
 
 Nota de acceso:
 Databricks Free Edition puede solicitar autenticación para visualizar dashboards publicados.
+
+
+Workspace ID:
+7474652446512008
+
+aws:us-east-2:f28e61d4-73a7-403c-bd08-f42746131f2b
