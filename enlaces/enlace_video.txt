@@ -1,2 +1,8 @@
-Enlace del video explicativo:
-[PENDIENTE]
+Video explicativo del proyecto:
+https://youtu.be/ASXToT6lWKk
+
+Título:
+Proyecto Final – Analítica de Ventas de Videojuegos en Databricks
+
+Autor:
+Darren J. Blackman M.
